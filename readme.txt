@@ -1,7 +1,7 @@
 LabVIEW_LJUD - LabVIEW drivers/examples for LabJackUD
 support@labjack.com
 
-November 21, 2014
+October 16, 2020
 
 Compatible with LabVIEW 7.1 or higher.  Requires the
 LabJack UD driver.
@@ -14,11 +14,11 @@ Explorer and DAQ Assistant are part of NI-DAQ and thus do
 not apply to LabJacks.
 
 These VIs use the LabJackUD Driver for Windows.  Before using
-the VIs, you should look at Section 4 of the U3/U6/UE9 User's
-Guide, and get an understanding of how the LabJackUD driver
+the VIs, you should look at Section 4 of the U3/U6/UE9 Datasheet,
+and get an understanding of how the LabJackUD driver
 interacts with the hardware:
 
-http://www.labjack.com/downloads.php
+https://labjack.com/support/datasheets
 
 This LabVIEW archive is kept as close as possible to all of
 our other programming examples.  At its core, LabVIEW is just
