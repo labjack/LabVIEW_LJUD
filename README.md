@@ -4,8 +4,6 @@ This is the public repository for LabVIEW code to use the LabJack UD Driver.
 LabVIEW_LJUD - LabVIEW drivers/examples for LabJackUD
 support@labjack.com
 
-October 16, 2020
-
 Compatible with LabVIEW 7.1 or higher.  Requires the
 LabJack UD driver.
 
